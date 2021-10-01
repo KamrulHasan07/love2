@@ -1,0 +1,22 @@
+.person {
+    display: inline-block;
+    width: 166px;
+    height: 170px;
+    padding: 10px;
+    border: 1px solid black;
+    background: linear-gradient(45deg, #de2b2b, #ee6f6f00);
+    text-align: center;
+    color: beige;
+}
+
+img{
+    max-width: 100%;
+}
+
+.persons {
+    display: inline-block;
+    width: 100px;
+    width: 150px;
+    background: linear-gradient(45deg, #dadee6, transparent);
+    color: #bebe24;
+}
